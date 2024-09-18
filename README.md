@@ -65,6 +65,5 @@ git push origin [feature/bugfix]-[brief-description]
 
 ## Contact
 
-If you have any questions or comments about this project, please feel free to contact Dipesh Joshi at jdipesh29@gmail.com.
+If you have any questions or comments about this project, please feel free to contact Dipesh Joshi at roshanshriwastav924@gmail.com.
 
-## Outputs
