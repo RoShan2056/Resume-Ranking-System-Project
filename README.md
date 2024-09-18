@@ -1,4 +1,4 @@
-# Resume Ranking and Certificate Verification System
+# Resume Ranking System
 
 ## About
 This is a project that ranks resumes based on a model trained using spaCy and compares them to job descriptions to determine their relevance to specific job postings. Additionally, the system verifies certificates included in resumes through both offline and online verification methods.
@@ -65,5 +65,5 @@ git push origin [feature/bugfix]-[brief-description]
 
 ## Contact
 
-If you have any questions or comments about this project, please feel free to contact Dipesh Joshi at roshanshriwastav924@gmail.com.
+If you have any questions or comments about this project, please feel free to contact Roshan Shriwastav at roshanshriwastav924@gmail.com.
 
